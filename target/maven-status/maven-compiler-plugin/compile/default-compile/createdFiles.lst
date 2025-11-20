@@ -1,0 +1,9 @@
+com\example\app\Caretaker.class
+com\example\app\Stats.class
+com\example\app\GameCharacter.class
+com\example\app\Main.class
+com\example\app\CharacterRace.class
+com\example\app\GameCharacter$CharacterMemento.class
+com\example\app\CharacterClass.class
+com\example\app\JsonExporter.class
+com\example\app\MainView.class
